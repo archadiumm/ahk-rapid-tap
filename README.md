@@ -21,4 +21,4 @@ Rapid Tap is a feature on SteelSeries Apex Pro keyboards that uses Simultaneous 
   <h2><b>How To Install</b></h2>
 </div>
 
-To install **AutoHotKey Rapid Tap**, you will need to have the latest version of [**AutoHotKey V2**](https://www.autohotkey.com/download/ahk-v2.exe)
+To install **AutoHotKey Rapid Tap**, you will need to have the latest version of [**AutoHotKey V2**](https://www.autohotkey.com/download/ahk-v2.exe). After you are done installing it...
